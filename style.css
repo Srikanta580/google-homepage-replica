@@ -1,0 +1,62 @@
+.goog{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+.goog img{
+    height: 100px;
+     width: 300px;
+}
+
+.box{
+  display: flex;
+ margin-left: 460px;
+ margin-top: 25px;
+  height: 40px;
+  width: 600px;
+  border: 0.5px solid black;
+  border-radius: 20px;
+ 
+}
+.box img{
+    padding-left: 12px;
+    padding-top: 8px;
+}
+.btnsearch button {
+    height: 25px;
+    width: 200px;
+    border: 0ch;
+    
+}
+
+.btnsearch{
+    justify-content: space-between;
+    margin-left: 530px;
+    margin-top: 20px;
+}
+.btnsearch button:hover{
+    cursor:pointer ;
+    
+}
+.btnsearch a {
+text-decoration: none !important;
+color: black !important;
+}
+.write{
+    margin-left: 435px;
+    margin-top: 30px;
+}
+
+
+.write a {
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+.box input{
+    width:440px;
+   border:0px;
+   padding: 15px;
+}
+
+
